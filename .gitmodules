@@ -1,0 +1,36 @@
+[submodule "alsa-lib"]
+	path = alsa-lib
+	url = https://github.com/shedbuilt/alsa-lib.git
+    branch = .
+[submodule "alsa-utils"]
+	path = alsa-utils
+	url = https://github.com/shedbuilt/alsa-utils.git
+	branch = .
+[submodule "alsa-plugins"]
+	path = alsa-plugins
+	url = https://github.com/shedbuilt/alsa-plugins.git
+	branch = .
+[submodule "libogg"]
+	path = libogg
+	url = https://github.com/shedbuilt/libogg.git
+	branch = .
+[submodule "libvorbis"]
+	path = libvorbis
+	url = https://github.com/shedbuilt/libvorbis.git
+	branch = .
+[submodule "flac"]
+	path = flac
+	url = https://github.com/shedbuilt/flac.git
+	branch = .
+[submodule "libmad"]
+	path = libmad
+	url = https://github.com/shedbuilt/libmad.git
+	branch = .
+[submodule "faad2"]
+	path = faad2
+	url = https://github.com/shedbuilt/faad2.git
+	branch = .
+[submodule "fluidsynth"]
+	path = fluidsynth
+	url = https://github.com/shedbuilt/fluidsynth.git
+	branch = .
