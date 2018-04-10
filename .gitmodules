@@ -34,3 +34,7 @@
 	path = fluidsynth
 	url = https://github.com/shedbuilt/fluidsynth.git
 	branch = .
+[submodule "cmus"]
+	path = cmus
+	url = https://github.com/shedbuilt/cmus.git
+	branch = .
