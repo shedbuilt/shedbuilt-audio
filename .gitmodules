@@ -38,3 +38,7 @@
 	path = cmus
 	url = https://github.com/shedbuilt/cmus.git
 	branch = .
+[submodule "libsamplerate"]
+	path = libsamplerate
+	url = https://github.com/shedbuilt/libsamplerate.git
+	branch = .
